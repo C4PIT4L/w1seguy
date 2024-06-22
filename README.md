@@ -6,7 +6,7 @@ At first I tried to be sophisticated and go in different ways in order to hack a
 
 After that, after looking at the attached source code, I decided to go head-to-head and build a reverse program that would try to brute force the key
 
-![image](https://github.com/C4PIT4L/w1seguy/assets/139890041/c8d9a1eb-5d24-46eb-9012-7cec557d8e59)
+![image](https://github.com/C4PIT4L/w1seguy/assets/139890041/003a1868-4ae2-42e8-bfa1-4deeca0bcd13)
 
 
 I ran the program and after a while... I got the first Flag🥳
