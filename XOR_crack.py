@@ -19,7 +19,7 @@ def brute_force_key(hex_encoded, key_length):
         key = ''.join(key_tuple)
         decoded_flag = decode_flag(hex_encoded, key)
         
-        if decoded_flag.startswith("THM{"):  # Check if the flag starts with "THM{"
+        if decoded_flag.startswith("THM{") and decoded_flag.endswith("}"):  # Check if the flag starts with "THM{"
             return key, decoded_flag
     
     return None, None
