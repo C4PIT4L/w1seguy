@@ -1,5 +1,5 @@
 # w1seguy
-Scripts and my way of solving this CTF :) 
+my way of solving this CTF :) 
 --------------------------------------------
 
 At first I tried to be sophisticated and go in different ways in order to hack and gain access to the server, it didn't work :(
